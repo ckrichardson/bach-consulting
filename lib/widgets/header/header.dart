@@ -11,7 +11,7 @@ class HeaderLinkTitles {
   static const String about = 'ABOUT';
 }
 
-class Header extends StatelessWidget with PreferredSizeWidget {
+class Header extends StatelessWidget implements PreferredSizeWidget {
   const Header({Key? key});
 
   @override
