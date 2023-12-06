@@ -1,16 +1,12 @@
-# flutter_application_1
+# Bach Consulting Website
 
-A new Flutter project.
+This is a simple project that I used to explore the Flutter framework using the Dart language.   
+It has simple routing, image loading, and simple interactive features that one may find on a basic consulting web page.
+Currently the application is being rendered with the Flutter Canvas.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run:
+```
+flutter pub get
+flutter run
+```
+And choose web browser for debugging
