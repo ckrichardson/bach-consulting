@@ -10,3 +10,7 @@ flutter pub get
 flutter run
 ```
 And choose web browser for debugging
+
+
+Example currently running at:
+http://www.bachconsulting.io.s3-website-us-west-1.amazonaws.com/#/
